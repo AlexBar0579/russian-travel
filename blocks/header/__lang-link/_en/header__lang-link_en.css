@@ -1,0 +1,8 @@
+.header__lang-link_en {
+  text-decoration: none;
+  margin: 18px 0 6px;
+  transition: opacity 1s ease;
+}
+.header__lang-link_en:hover {
+  opacity: .5;
+}

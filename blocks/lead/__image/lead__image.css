@@ -1,0 +1,28 @@
+.lead__image {
+  /*padding: 64px auto 22px;*/
+  margin-top: 64px;
+  margin-bottom: 22px;
+  max-width: 984px;
+  max-height: 615px;
+}
+/*@media screen and (max-width: 1024px) {
+  .lead__title {
+    /*max-width: 928px;
+    max-width: calc(100%-96px);
+    padding-bottom: 100%;
+ }
+}
+@media screen and (max-width: 768px) {
+  .lead__title {
+    max-width: 768px;
+    max-width: 100%;
+    padding-bottom: 100%;
+ }
+}
+@media screen and (max-width: 455px) {
+  .lead__title {
+    max-width: 320px;
+    max-width: 100%;
+    padding-bottom: 100%;
+ }
+}*/
