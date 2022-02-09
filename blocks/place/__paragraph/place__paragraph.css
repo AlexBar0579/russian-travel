@@ -17,11 +17,8 @@
     padding-bottom: 25px;
   }
 }
-@media screen and (max-width: 665px) {
+@media screen and (max-width: 480px) {
   .place__paragraph {
-    max-width: calc(100% - 2*16px);
-    padding-left: 16px;
-    margin: 0;
-    grid-row: 4;
+    margin: 0 16px;
   }
 }

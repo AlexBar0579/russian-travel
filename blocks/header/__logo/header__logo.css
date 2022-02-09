@@ -1,12 +1,11 @@
 .header__logo {
-  display: flex;
   width: 176px;
-  height: auto;
-  margin: 0;
-  padding: 0;
+  height: 52px;
+  display: inline-block;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 425px) {
   .header__logo {
-    max-width: 142px;
- }
+    width: 142px;
+    height: 42px;
+  }
 }
