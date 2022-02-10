@@ -21,7 +21,13 @@
   .place {
     grid-gap: 7.68vw 4.48vw;
     grid-template-columns: 54.4vw minmax(min-content,max-content);
-
+  }
+}
+@media screen and (max-width: 480px) {
+  .place {
+    grid-template-columns: repeat(auto-fill, minmax(66.66vw, 1fr));
+    margin: 0 auto;
+    row-gap: 0;
   }
 }
 @media screen and (max-width: 320px) {
