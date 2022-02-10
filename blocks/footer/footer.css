@@ -11,6 +11,12 @@
     padding: 88px 24px 24px;
   }
 }
+@media screen and (max-width: 625px) {
+  .footer {
+    padding: 88px 24px 24px;
+    width: 67.349vw;
+  }
+}
 @media screen and (max-width: 480px) {
   .footer {
     width: 100%;
