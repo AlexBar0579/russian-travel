@@ -17,13 +17,10 @@
     grid-template-columns: 340px minmax(min-content,max-content);
   }
 }
-@media screen and (max-width: 665px) {
+@media screen and (max-width: 625px) {
   .place {
-    display: grid;
-    grid-template-columns: 1fr;
-    width: 100%;
-    margin: 0 auto;
-    row-gap: 0;
+    grid-gap: 7.68vw 4.48vw;
+    grid-template-columns: 54.4vw minmax(min-content,max-content);
 
   }
 }

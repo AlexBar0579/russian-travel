@@ -1,7 +1,6 @@
 .header {
   max-width: 1184px;
-  /*width: 1184px;*/
-
+  width: 92.5vw;
   margin: 28px 48px 56px;
   display: flex;
   justify-content: space-between;
@@ -9,22 +8,19 @@
   }
 @media screen and (max-width: 1024px) {
   .header {
-    max-width: 928px;
-    /*width: 928px;*/
+    width: 90.625vw;
     margin: 28px 48px 48px;
   }
 }
 @media screen and (max-width: 768px) {
   .header {
     margin: 28px 24px 48px;
-    /*width: 720px;*/
-    max-width: 720px;
+    width: 93.75vw;
   }
 }
 @media screen and (max-width: 425px) {
   .header {
     margin: 16px 16px 48px;
-    /*width: 288px;*/
-    max-width: 288px;
+    width: 90vw;
   }
 }

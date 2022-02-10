@@ -14,7 +14,12 @@
     width: 340px;
   }
 }
-@media screen and (max-width: 665px) {
+@media screen and (max-width: 625px) {
+  .place__image {
+    width: 54.4vw;
+  }
+}
+@media screen and (max-width: 480px) {
   .place__image {
     width: 100%;
     margin-bottom: 32px;

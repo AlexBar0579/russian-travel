@@ -1,22 +1,4 @@
 
 .foto-grid__image {
   width: 100%;
-  object-fit: cover;
-  /*max-width: 284px;*/
 }
-/*@media screen and (max-width: 1024px) {
-  .foto-grid__image {
-    max-width: 300px;
-  }
-}
-@media screen and (max-width: 768px) {
-  .foto-grid__image {
-    max-width: 352px;
-  }
-}
-@media screen and (max-width: 480px) {
-  .foto-grid__image {
-    max-width: 288px;
-    width: 100%;
-  }
-}*/
