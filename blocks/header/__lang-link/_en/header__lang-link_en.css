@@ -1,10 +1,5 @@
 .header__lang-link_en {
-  text-decoration: none;
   padding: 18px 0 6px;
-  transition: opacity 1s ease;
-}
-.header__lang-link_en:hover {
-  opacity: .5;
 }
 @media screen and (max-width: 665px) {
   .header__lang-link_en {

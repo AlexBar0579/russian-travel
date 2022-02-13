@@ -1,10 +1,5 @@
 .header__lang-link_ru {
-  text-decoration-line: underline;
   padding: 18px 18px 6px 0;
-  transition: opacity 1s ease;
-}
-.header__lang-link_ru:hover {
-  opacity: .5;
 }
 @media screen and (max-width: 665px) {
   .header__lang-link_ru {
