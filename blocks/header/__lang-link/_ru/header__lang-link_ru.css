@@ -1,8 +1,0 @@
-.header__lang-link_ru {
-  padding: 18px 18px 6px 0;
-}
-@media screen and (max-width: 665px) {
-  .header__lang-link_ru {
-    padding: 14px 18px 0 8px;
- }
-}
